@@ -30,3 +30,11 @@ Live inference using YOLO
 >Model requires further training for better accuracy
 >Dataset imbalance affects performance
 >Currently experimental prototype
+IMAGES
+><img width="426" height="420" alt="image" src="https://github.com/user-attachments/assets/49d7fb22-2df9-48d4-aa28-3653b2744c39" />
+><img width="417" height="416" alt="image" src="https://github.com/user-attachments/assets/2c5c42fe-0cda-4917-91bb-c69d7ce05b7a" />
+><img width="1900" height="1144" alt="Screenshot 2026-06-22 210931" src="https://github.com/user-attachments/assets/fa8efa5f-05be-4004-94b6-5c3f8ba803c4" />
+><img width="963" height="1280" alt="WhatsApp Image 2026-06-22 at 10 05 27 PM" src="https://github.com/user-attachments/assets/864e5d5c-56aa-4bf7-9892-4618a92c450e" />
+
+
+
