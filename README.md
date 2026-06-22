@@ -17,6 +17,7 @@ The project was inspired by real-world industrial safety challenges where PPE co
 >OpenCV
 >Arduino (ESP32-CAM)
 >Roboflow Dataset
+>URL OF DATASET "https://universe.roboflow.com/personal-protective-equipment/ppes-kaxsi?ref=blog.roboflow.com"
 ⚙️ System Architecture
 
 ESP32-CAM → WiFi Stream → Python OpenCV → YOLO Model → Detection Output
