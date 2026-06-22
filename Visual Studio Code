@@ -1,0 +1,1 @@
+run the "text.py" to check your model in a local image known as text.jpg and run "from ultralytics import YOLO" to start ESP 32 CAM DETECTION
