@@ -1,0 +1,1 @@
+run "text.py" to text the test.jpg using best.pt and run "from ultralytics import YOLO" to start ESP 32 object detection
